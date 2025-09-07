@@ -3,17 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>M.P. Ndlangamandla IT Portfolio </title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
-        header { background-color: #0077b5; color: white; text-align: center; padding: 20px; }
-        .container { max-width: 800px; margin: 20px auto; padding: 20px; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        h1, h2 { color: #0077b5; }
-        ul { list-style-type: none; padding: 0; }
-        li { margin: 10px 0; padding: 10px; background: #e9e9e9; border-radius: 5px; }
-        a { color: #0077b5; text-decoration: none; }
-        footer { text-align: center; padding: 10px; background: #0077b5; color: white; }
-    </style>
 </head>
 <body>
     <header>
